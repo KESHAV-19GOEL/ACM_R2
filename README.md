@@ -5,3 +5,5 @@
 [codeforces profile link](https://codeforces.com/profile/Keshav19_goel)  
 
 [C codes link](https://github.com/KESHAV-19GOEL/cpp_codes.git)
+
+[Did 5-16  lectures form here in the time given ](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
